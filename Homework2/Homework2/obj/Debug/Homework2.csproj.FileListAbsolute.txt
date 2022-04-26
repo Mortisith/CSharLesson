@@ -1,0 +1,11 @@
+D:\C#\Homework2\Homework2\bin\Debug\Homework2.exe.config
+D:\C#\Homework2\Homework2\bin\Debug\Homework2.exe
+D:\C#\Homework2\Homework2\bin\Debug\Homework2.pdb
+D:\C#\Homework2\Homework2\bin\Debug\Helper.dll
+D:\C#\Homework2\Homework2\bin\Debug\Helper.pdb
+D:\C#\Homework2\Homework2\obj\Debug\Homework2.csproj.AssemblyReference.cache
+D:\C#\Homework2\Homework2\obj\Debug\Homework2.csproj.SuggestedBindingRedirects.cache
+D:\C#\Homework2\Homework2\obj\Debug\Homework2.csproj.CoreCompileInputs.cache
+D:\C#\Homework2\Homework2\obj\Debug\Homework2.csproj.CopyComplete
+D:\C#\Homework2\Homework2\obj\Debug\Homework2.exe
+D:\C#\Homework2\Homework2\obj\Debug\Homework2.pdb
