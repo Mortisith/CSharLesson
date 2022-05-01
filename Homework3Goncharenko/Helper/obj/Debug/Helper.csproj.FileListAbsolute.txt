@@ -1,0 +1,12 @@
+D:\C#\Homework1Goncharenko\Helper\bin\Debug\Helper.dll
+D:\C#\Homework1Goncharenko\Helper\bin\Debug\Helper.pdb
+D:\C#\Homework1Goncharenko\Helper\obj\Debug\Helper.csproj.AssemblyReference.cache
+D:\C#\Homework1Goncharenko\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+D:\C#\Homework1Goncharenko\Helper\obj\Debug\Helper.dll
+D:\C#\Homework1Goncharenko\Helper\obj\Debug\Helper.pdb
+D:\C#\Helper\bin\Debug\Helper.dll
+D:\C#\Helper\bin\Debug\Helper.pdb
+D:\C#\Helper\obj\Debug\Helper.csproj.AssemblyReference.cache
+D:\C#\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+D:\C#\Helper\obj\Debug\Helper.dll
+D:\C#\Helper\obj\Debug\Helper.pdb
