@@ -1,0 +1,13 @@
+D:\C#\Homework4Goncharenko\Homework4Goncharenko\bin\Debug\Homework4Goncharenko.exe.config
+D:\C#\Homework4Goncharenko\Homework4Goncharenko\bin\Debug\Homework4Goncharenko.exe
+D:\C#\Homework4Goncharenko\Homework4Goncharenko\bin\Debug\Homework4Goncharenko.pdb
+D:\C#\Homework4Goncharenko\Homework4Goncharenko\bin\Debug\Helper.dll
+D:\C#\Homework4Goncharenko\Homework4Goncharenko\bin\Debug\Helper.pdb
+D:\C#\Homework4Goncharenko\Homework4Goncharenko\obj\Debug\Homework4Goncharenko.csproj.AssemblyReference.cache
+D:\C#\Homework4Goncharenko\Homework4Goncharenko\obj\Debug\Homework4Goncharenko.csproj.SuggestedBindingRedirects.cache
+D:\C#\Homework4Goncharenko\Homework4Goncharenko\obj\Debug\Homework4Goncharenko.csproj.CoreCompileInputs.cache
+D:\C#\Homework4Goncharenko\Homework4Goncharenko\obj\Debug\Homework4Goncharenko.csproj.CopyComplete
+D:\C#\Homework4Goncharenko\Homework4Goncharenko\obj\Debug\Homework4Goncharenko.exe
+D:\C#\Homework4Goncharenko\Homework4Goncharenko\obj\Debug\Homework4Goncharenko.pdb
+D:\C#\Homework4Goncharenko\Homework4Goncharenko\bin\Debug\TestArrayList.txt
+D:\C#\Homework4Goncharenko\Homework4Goncharenko\bin\Debug\TryLogin.txt
