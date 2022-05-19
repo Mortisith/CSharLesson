@@ -1,0 +1,12 @@
+D:\C#\Homework5Goncharenko\Homework5Goncharenko\bin\Debug\Homework5Goncharenko.exe.config
+D:\C#\Homework5Goncharenko\Homework5Goncharenko\bin\Debug\Homework5Goncharenko.exe
+D:\C#\Homework5Goncharenko\Homework5Goncharenko\bin\Debug\Homework5Goncharenko.pdb
+D:\C#\Homework5Goncharenko\Homework5Goncharenko\bin\Debug\Helper.dll
+D:\C#\Homework5Goncharenko\Homework5Goncharenko\bin\Debug\Helper.pdb
+D:\C#\Homework5Goncharenko\Homework5Goncharenko\obj\Debug\Homework5Goncharenko.csproj.AssemblyReference.cache
+D:\C#\Homework5Goncharenko\Homework5Goncharenko\obj\Debug\Homework5Goncharenko.csproj.SuggestedBindingRedirects.cache
+D:\C#\Homework5Goncharenko\Homework5Goncharenko\obj\Debug\Homework5Goncharenko.csproj.CoreCompileInputs.cache
+D:\C#\Homework5Goncharenko\Homework5Goncharenko\obj\Debug\Homework5Goncharenko.csproj.CopyComplete
+D:\C#\Homework5Goncharenko\Homework5Goncharenko\obj\Debug\Homework5Goncharenko.exe
+D:\C#\Homework5Goncharenko\Homework5Goncharenko\obj\Debug\Homework5Goncharenko.pdb
+D:\C#\Homework5Goncharenko\Homework5Goncharenko\bin\Debug\TextFile1.txt
