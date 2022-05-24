@@ -1,0 +1,11 @@
+D:\C#\Homerwork6Goncharenko\Homerwork6Goncharenko\bin\Debug\Homerwork6Goncharenko.exe.config
+D:\C#\Homerwork6Goncharenko\Homerwork6Goncharenko\bin\Debug\Homerwork6Goncharenko.exe
+D:\C#\Homerwork6Goncharenko\Homerwork6Goncharenko\bin\Debug\Homerwork6Goncharenko.pdb
+D:\C#\Homerwork6Goncharenko\Homerwork6Goncharenko\bin\Debug\Helper.dll
+D:\C#\Homerwork6Goncharenko\Homerwork6Goncharenko\bin\Debug\Helper.pdb
+D:\C#\Homerwork6Goncharenko\Homerwork6Goncharenko\obj\Debug\Homerwork6Goncharenko.csproj.AssemblyReference.cache
+D:\C#\Homerwork6Goncharenko\Homerwork6Goncharenko\obj\Debug\Homerwork6Goncharenko.csproj.SuggestedBindingRedirects.cache
+D:\C#\Homerwork6Goncharenko\Homerwork6Goncharenko\obj\Debug\Homerwork6Goncharenko.csproj.CoreCompileInputs.cache
+D:\C#\Homerwork6Goncharenko\Homerwork6Goncharenko\obj\Debug\Homerwork6Goncharenko.csproj.CopyComplete
+D:\C#\Homerwork6Goncharenko\Homerwork6Goncharenko\obj\Debug\Homerwork6Goncharenko.exe
+D:\C#\Homerwork6Goncharenko\Homerwork6Goncharenko\obj\Debug\Homerwork6Goncharenko.pdb
