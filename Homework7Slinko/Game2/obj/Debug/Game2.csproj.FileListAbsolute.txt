@@ -1,0 +1,11 @@
+D:\C#\Lesson7\Game2\bin\Debug\Game2.exe.config
+D:\C#\Lesson7\Game2\bin\Debug\Game2.exe
+D:\C#\Lesson7\Game2\bin\Debug\Game2.pdb
+D:\C#\Lesson7\Game2\obj\Debug\Game2.csproj.AssemblyReference.cache
+D:\C#\Lesson7\Game2\obj\Debug\Game2.csproj.SuggestedBindingRedirects.cache
+D:\C#\Lesson7\Game2\obj\Debug\Game2.TipItGame.resources
+D:\C#\Lesson7\Game2\obj\Debug\Game2.Properties.Resources.resources
+D:\C#\Lesson7\Game2\obj\Debug\Game2.csproj.GenerateResource.cache
+D:\C#\Lesson7\Game2\obj\Debug\Game2.csproj.CoreCompileInputs.cache
+D:\C#\Lesson7\Game2\obj\Debug\Game2.exe
+D:\C#\Lesson7\Game2\obj\Debug\Game2.pdb
