@@ -1,0 +1,15 @@
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe.config
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.exe
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\bin\Debug\TrueFalseEditor.pdb
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.AssemblyReference.cache
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.SuggestedBindingRedirects.cache
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Main.resources
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.Properties.Resources.resources
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.GenerateResource.cache
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.CoreCompileInputs.cache
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.exe
+C:\sources\gb\csharp\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.pdb
+D:\C#\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.AssemblyReference.cache
+D:\C#\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.csproj.SuggestedBindingRedirects.cache
+D:\C#\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.exe
+D:\C#\Lesson8\TrueFalseEditor\obj\Debug\TrueFalseEditor.pdb

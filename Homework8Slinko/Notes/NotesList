@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <Text>Купить фрукты</Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>Поздравить тетю</Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>Оплатить интернет</Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+</ArrayOfQuestion>

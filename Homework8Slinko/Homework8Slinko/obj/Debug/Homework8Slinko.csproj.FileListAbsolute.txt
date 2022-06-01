@@ -1,0 +1,8 @@
+D:\C#\Homework8Slinko\Homework8Slinko\bin\Debug\Homework8Slinko.exe.config
+D:\C#\Homework8Slinko\Homework8Slinko\bin\Debug\Homework8Slinko.exe
+D:\C#\Homework8Slinko\Homework8Slinko\bin\Debug\Homework8Slinko.pdb
+D:\C#\Homework8Slinko\Homework8Slinko\obj\Debug\Homework8Slinko.csproj.AssemblyReference.cache
+D:\C#\Homework8Slinko\Homework8Slinko\obj\Debug\Homework8Slinko.csproj.SuggestedBindingRedirects.cache
+D:\C#\Homework8Slinko\Homework8Slinko\obj\Debug\Homework8Slinko.csproj.CoreCompileInputs.cache
+D:\C#\Homework8Slinko\Homework8Slinko\obj\Debug\Homework8Slinko.exe
+D:\C#\Homework8Slinko\Homework8Slinko\obj\Debug\Homework8Slinko.pdb

@@ -1,0 +1,17 @@
+D:\C#\Homework8Slinko\Notes\obj\Debug\Notes.csproj.AssemblyReference.cache
+D:\C#\Homework8Slinko\Notes\obj\Debug\Notes.csproj.SuggestedBindingRedirects.cache
+D:\C#\Homework8Slinko\Notes\obj\Debug\Notes.NoteForm.resources
+D:\C#\Homework8Slinko\Notes\obj\Debug\Notes.Properties.Resources.resources
+D:\C#\Homework8Slinko\Notes\obj\Debug\Notes.csproj.GenerateResource.cache
+D:\C#\Homework8Slinko\Notes\obj\Debug\Notes.csproj.CoreCompileInputs.cache
+D:\C#\Homework8Slinko\Notes\bin\Debug\GameForm.resx
+D:\C#\Homework8Slinko\Notes\bin\Debug\GameForm.Designer.cs
+D:\C#\Homework8Slinko\Notes\bin\Debug\Notes.exe.config
+D:\C#\Homework8Slinko\Notes\bin\Debug\Notes.exe
+D:\C#\Homework8Slinko\Notes\bin\Debug\Notes.pdb
+D:\C#\Homework8Slinko\Notes\bin\Debug\TrueFalseEditor.exe
+D:\C#\Homework8Slinko\Notes\bin\Debug\TrueFalseEditor.pdb
+D:\C#\Homework8Slinko\Notes\bin\Debug\TrueFalseEditor.exe.config
+D:\C#\Homework8Slinko\Notes\obj\Debug\Notes.csproj.CopyComplete
+D:\C#\Homework8Slinko\Notes\obj\Debug\Notes.exe
+D:\C#\Homework8Slinko\Notes\obj\Debug\Notes.pdb

@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework8Slinko", "Homework8Slinko\Homework8Slinko.csproj", "{9B762BE1-E9E3-486B-8FE0-6E13C4420F0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForTextBox", "ForTextBox\ForTextBox.csproj", "{2EDFD7E3-531B-434F-B21A-A5E23D52955B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrueFalseEditor", "..\Lesson8\TrueFalseEditor\TrueFalseEditor.csproj", "{7B7CC45A-4062-4B9E-A57C-C63D7AE8405C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes", "Notes\Notes.csproj", "{9671DB06-1441-44C0-A243-54F68630DEBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertFiles", "ConvertFiles\ConvertFiles.csproj", "{441021E1-182E-48F0-8B71-4336F8137301}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E2DB5EB1-584A-47C5-91FA-E6146663C33E}"
+	ProjectSection(SolutionItems) = preProject
+		..\Homerwork6Goncharenko\students.csv = ..\Homerwork6Goncharenko\students.csv
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B762BE1-E9E3-486B-8FE0-6E13C4420F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B762BE1-E9E3-486B-8FE0-6E13C4420F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B762BE1-E9E3-486B-8FE0-6E13C4420F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B762BE1-E9E3-486B-8FE0-6E13C4420F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EDFD7E3-531B-434F-B21A-A5E23D52955B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDFD7E3-531B-434F-B21A-A5E23D52955B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EDFD7E3-531B-434F-B21A-A5E23D52955B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDFD7E3-531B-434F-B21A-A5E23D52955B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B7CC45A-4062-4B9E-A57C-C63D7AE8405C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7CC45A-4062-4B9E-A57C-C63D7AE8405C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7CC45A-4062-4B9E-A57C-C63D7AE8405C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7CC45A-4062-4B9E-A57C-C63D7AE8405C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9671DB06-1441-44C0-A243-54F68630DEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9671DB06-1441-44C0-A243-54F68630DEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9671DB06-1441-44C0-A243-54F68630DEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9671DB06-1441-44C0-A243-54F68630DEBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{441021E1-182E-48F0-8B71-4336F8137301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441021E1-182E-48F0-8B71-4336F8137301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441021E1-182E-48F0-8B71-4336F8137301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441021E1-182E-48F0-8B71-4336F8137301}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7ACA74F-4B1E-47F0-A545-F96106E282E7}
+	EndGlobalSection
+EndGlobal
